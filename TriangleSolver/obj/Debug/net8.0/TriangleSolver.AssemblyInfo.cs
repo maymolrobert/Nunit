@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriangleSolver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cc435f0e3de99ae2af908134cde7411fe9442d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriangleSolver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriangleSolver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

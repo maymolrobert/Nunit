@@ -157,3 +157,4 @@
 /Users/maymolrobert/Downloads/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/TriangleSolverTest.pdb
 /Users/maymolrobert/Downloads/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/TriangleSolverTest.genruntimeconfig.cache
 /Users/maymolrobert/Downloads/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/ref/TriangleSolverTest.dll
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/TriangleSolverTest.sourcelink.json

@@ -9,3 +9,4 @@
 /Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/refint/TriangleSolver.dll
 /Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.pdb
 /Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/ref/TriangleSolver.dll
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.sourcelink.json
