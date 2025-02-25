@@ -1,0 +1,11 @@
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/bin/Debug/net8.0/TriangleSolver.deps.json
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/bin/Debug/net8.0/TriangleSolver.dll
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/bin/Debug/net8.0/TriangleSolver.pdb
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.AssemblyInfoInputs.cache
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.AssemblyInfo.cs
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.csproj.CoreCompileInputs.cache
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.dll
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/refint/TriangleSolver.dll
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.pdb
+/Users/maymolrobert/Downloads/TriangleSolver/TriangleSolver/obj/Debug/net8.0/ref/TriangleSolver.dll

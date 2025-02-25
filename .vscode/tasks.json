@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Tests",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "test",
+                "${workspaceFolder}/TriangleTest/TriangleTest.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
