@@ -74,5 +74,51 @@ namespace TriangleSolverTest
             Assert.That(result, Is.EqualTo("Scalene triangle"));
         }
 
+
+         // 10-12. Zero Length for One or More Sides
+        [Test]
+        public void AnalyzeTriangle_ZeroSide1_ReturnsInvalid()
+        {
+            var result = Triangle.AnalyzeTriangle(0, 5, 5);
+            Assert.That(result, Is.EqualTo("Invalid Triangle - a zero has been detected"));
+        }
+
+        [Test]
+        public void AnalyzeTriangle_ZeroSide2_ReturnsInvalid()
+        {
+            var result = Triangle.AnalyzeTriangle(5, 0, 5);
+            Assert.That(result, Is.EqualTo("Invalid Triangle - a zero has been detected"));
+        }
+
+        [Test]
+        public void AnalyzeTriangle_ZeroSide3_ReturnsInvalid()
+        {
+            var result = Triangle.AnalyzeTriangle(5, 5, 0);
+            Assert.That(result, Is.EqualTo("Invalid Triangle - a zero has been detected"));
+        }
+
+        // 13-15. Invalid Triangles (Sum of two sides not greater than the third)
+        [Test]
+        public void AnalyzeTriangle_InvalidSumOfTwoSidesNotGreater1()
+        {
+            var result = Triangle.AnalyzeTriangle(1, 2, 3);
+            Assert.That(result, Is.EqualTo("INVALID!!"));
+        }
+
+        [Test]
+        public void AnalyzeTriangle_InvalidSumOfTwoSidesNotGreater2()
+        {
+            var result = Triangle.AnalyzeTriangle(5, 1, 1);
+            Assert.That(result, Is.EqualTo("INVALID!!"));
+        }
+
+        [Test]
+        public void AnalyzeTriangle_InvalidSumOfTwoSidesNotGreater3()
+        {
+            var result = Triangle.AnalyzeTriangle(10, 2, 7);
+            Assert.That(result, Is.EqualTo("INVALID!!"));
+        }
+
+
     }
 }
